@@ -10,3 +10,6 @@
 # Data
 *.csv
 *.md
+
+# Python file
+*.py
